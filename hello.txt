@@ -1,3 +1,4 @@
 hello!
 new
 New year
+Hello, git!
