@@ -2,3 +2,4 @@ hello!
 new
 New year
 Hello, git!
+Hello, git rebase!
